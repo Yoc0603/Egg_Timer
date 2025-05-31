@@ -32,9 +32,9 @@ Fast and lightweight performance
 
 ### 📲 App Screens
 
-| Ask a Question | YES |
-|----------------|-----|
-| <img src="3.png" width="200"> | <img src="screenshots/4.png" width="200"> |
+| Selection Screen  | Timer Running |
+|-------------------|---------------| 
+| <img src="screenshots/3.png" width="200"> | <img src="screenshots/4.png" width="200"> |
 
 
 ## 🚀 Getting Started
