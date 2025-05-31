@@ -24,14 +24,18 @@ Fast and lightweight performance
 
 ## 🧪 Preview
 
-###  🟦 Splash Screen
+### 🔵 Splash Screen
 <img src="screenshots/1.png" width="250">
-### 🥚 App Icon
+
+### 🧙‍♀️ App Icon
 <img src="screenshots/2.png" width="250">
+
 ### 📲 App Screens
-| Selection Screen | Timer Running | 
-|------------------|---------------|
-|<img src="screenshots/3.png" width="200"> |	<img src="screenshots/4.png" width="200"> |
+
+| Ask a Question | YES |
+|----------------|-----|
+| <img src="3.png" width="200"> | <img src="screenshots/4.png" width="200"> |
+
 
 ## 🚀 Getting Started
 
