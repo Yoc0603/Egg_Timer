@@ -1,4 +1,5 @@
 🥚 EggTimer – Boil It Right!
+
 A simple and elegant egg boiling timer app built with SwiftUI. Choose how you want your egg – Soft, Medium, or Hard – and let the timer handle the rest. Perfect for breakfast perfectionists!
 
 Features
