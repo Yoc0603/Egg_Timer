@@ -1,7 +1,7 @@
-#🥚 EggTimer – iOS App
+# 🥚 EggTimer – iOS App
 EggTimer is a minimal and intuitive iOS app that helps you boil the perfect egg — every time! Whether you like it Soft, Medium, or Hard, just tap and let the timer do the rest.
 
-##📱 How It Works
+## 📱 How It Works
 Open the app.
 
 Choose your preferred egg consistency:
@@ -11,7 +11,7 @@ The timer starts automatically based on your selection.
 
 Get notified when your egg is ready!
 
-##✨ Features
+## ✨ Features
 Beautiful and simple UI
 
 3 cooking options: Soft, Medium, Hard
@@ -22,13 +22,13 @@ SwiftUI-based native iOS experience
 
 Fast and lightweight performance
 
-##🧪 Preview
+## 🧪 Preview
 
-###🟦 Splash Screen
+### 🟦 Splash Screen
 <img src="screenshots/1.png" width="250">
-###🥚 App Icon
+### 🥚 App Icon
 <img src="screenshots/2.png" width="250">
-###📲 App Screens
+### 📲 App Screens
 Selection Screen	Timer Running	App 
 <img src="screenshots/3.png" width="200">	<img src="screenshots/4.png" width="200">
 
